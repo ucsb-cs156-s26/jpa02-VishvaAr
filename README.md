@@ -1,8 +1,8 @@
 # jpa02-VishvaAr
 
-Repo: https://github.com/ucsb-cs156-s26/jpa02-VishvaAr.git
+Repo: https://github.com/ucsb-cs156-s26/jpa02-VishvaAr
 
-Deployed at: https://jpa02-VishvaAr.dokku-14.cs.ucsb.edu/
+Deployed at: https://jpa02-VishvaAr.dokku-14.cs.ucsb.edu
 
 
 # About this repo
