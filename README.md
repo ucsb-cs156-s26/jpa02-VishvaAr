@@ -1,4 +1,4 @@
-# jpa02-vishvaar
+# jpa02-VishvaAr
 
 Repo: https://github.com/ucsb-cs156-s26/jpa02-VishvaAr.git
 
